@@ -1,0 +1,1 @@
+After running all the pages one by one, run the 'Login Page'. This way you start the cycle. If you want to login, you can become a member. For admin login ID: 1, user: 'admin' , password: '1234'.
